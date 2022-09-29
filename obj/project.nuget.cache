@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "1D+61j721jqDROfPIPkEpnlEx2qk8ngYtK3SpR8JZwYEdeOdiVZ8+yw+iYUH/37SnWXn2aYgVe08wCyfmOsvNw==",
+  "success": false,
+  "projectFilePath": "/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/WizardNinjaSamurai/WizardNinjaSamurai.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.1.8' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.1.8' from source 'https://api.nuget.org/v3/index.json': The author primary signature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3028",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.1.8' from source 'https://api.nuget.org/v3/index.json': The repository countersignature's timestamp found a chain building issue: ExplicitDistrust: The trust setting for this policy was set to Deny.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU3037",
+      "level": "Error",
+      "message": "Package 'Microsoft.AspNetCore.App.Ref 3.1.8' from source 'https://api.nuget.org/v3/index.json': The repository countersignature validity period has expired.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}
